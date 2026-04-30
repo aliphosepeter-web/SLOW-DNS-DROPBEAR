@@ -15,7 +15,7 @@ fi
 # ============================================================================
 SSHD_PORT=2222
 SLOWDNS_PORT=5300
-GITHUB_BASE="https://raw.githubusercontent.com/iddie09/SLOW-DNS-DROPBEAR/main/DNSTT%20MODED"
+GITHUB_BASE="https://raw.githubusercontent.com/aliphosepeter-web/SLOW-DNS-DROPBEAR/main/DNSTT%20MODED"
 
 # ============================================================================
 # MODERN COLORS & DESIGN
